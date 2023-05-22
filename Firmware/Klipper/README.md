@@ -20,7 +20,7 @@
       * Bootloader offset = `8KiB bootloader`
       * Clock Reference = `8 MHz crystal`
       * Communication interface = `USB (on PA11/PA12)`
-      * If you plan to use the USB to CAN bridge then use the following two lines instead of the above line:
+      * If you plan to use the USB to CAN bridge (only with M8P V1.1+) then use the following two lines instead of the above line:
       * Communication interface = `USB to CAN bus bridge (USB (on PA11/PA12))`
       * CAN bus interface = `(CAN bus (on PD12/PD13))`
 
