@@ -1,4 +1,5 @@
 # [View English version](./README.md)
+# [日本語版はこちら](./README_ja_jp.md)
 
 # Note
 ## Here’s BIGTREETECH! For Makers, by makers!

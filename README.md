@@ -1,4 +1,5 @@
 # [切换到中文版](./README_zh_cn.md)
+# [日本語版はこちら](./README_ja_jp.md)
 
 # Note
 ## Here’s BIGTREETECH! For Makers, by makers!
